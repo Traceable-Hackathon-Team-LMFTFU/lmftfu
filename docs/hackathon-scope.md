@@ -29,7 +29,8 @@ Here we need our qualifier to score all possible strategies based on the inputs,
 We also want to provide a tailored list of pros and cons for each suggested strategies, if any, based on what inputs were gathered.
 
 ##### Future scope
-Assistant should be able to answer doubts regarding any of the suggested deployment strategy.
+1. Assistant is able to answer doubts regarding any of the suggested deployment strategy.
+2. Assistant is able to talk about various UI features like API Catalog, Discovery, Risk, Protection, etc as well when talking about the deployment strategies and its pros/cons.
 
 
 ### Creating an Interface
