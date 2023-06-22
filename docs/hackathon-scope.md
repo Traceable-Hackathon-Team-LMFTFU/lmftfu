@@ -28,7 +28,7 @@ Here we need our qualifier to score all possible strategies based on the inputs,
 
 We also want to provide a tailored list of pros and cons for each suggested strategies, if any, based on what inputs were gathered.
 
-#### Future scope
+##### Future scope
 Assistant should be able to answer doubts regarding any of the suggested deployment strategy.
 
 
